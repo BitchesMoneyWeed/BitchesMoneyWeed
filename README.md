@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family:monospace">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙢𝙮+𝙑𝙤𝙞𝙙;???);Hot+asf+but+not+today;love+u+silly+<3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Hot+asf+but+not+today;love+u+silly+<3;???" alt="Typing SVG" />
 </h1>
 
 <p align="center">
