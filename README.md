@@ -28,7 +28,8 @@
 
 - ⚫ **Frontend**: Next.js, React, Tailwind, TypeScript
 - 🌀 **Go**: Gin, smth else shit
-- 🧱 **DevOps**: Docker, Jenkins,  GitHub Actions, Nginx, shell
+- 🧱 **DevOps**: Docker, Jenkins, GitHub Actions, Nginx, Linux, Bash, Ansible, k8s
 - 🔻 **Assembly**
+- 💀 **Clang**
 
 ---
