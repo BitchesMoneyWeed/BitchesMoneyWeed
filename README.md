@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp10304944.jpg" width="100%" />
+  <img src="https://wallpapercave.com/wp/wp10304944.jpg" width="100%" height="400px" />
 </p>
 
 <h1 align="center" style="font-family:monospace">
@@ -7,11 +7,20 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-🌀-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASM%F0%9F%92%80-darkred?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/os X-black?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
@@ -24,12 +33,11 @@
 
 ---
 
-### 🛠️ core stack(and not so...):
+### 🛠️ core stack(and some other stuff...):
 
-- ⚫ **Frontend**: Next.js, React, Tailwind, TypeScript
-- 🌀 **Go**: Gin, smth else shit
+- ⚫ **Frontend**: Next.js, React, Tailwind, TypeScript  
+- 🌀 **Go**: Gin, smth else shit  
 - 🧱 **DevOps**: Docker, Jenkins, GitHub Actions, Nginx, Linux, Bash, Ansible, k8s
-- 🔻 **Assembly**
-- 💀 **Clang**
-
+- 🍎 **iOS**: Swift, UIKit, SwiftUI
+- 🔻 **Assembly** - ...
 ---
