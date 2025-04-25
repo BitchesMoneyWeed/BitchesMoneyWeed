@@ -2,9 +2,11 @@
   <img src="https://wallpapercave.com/wp/wp10304944.jpg" width="100%" height="400px" />
 </p>
 
-<h1 align="center" style="font-family:monospace">
+<p align="center" style="font-family:monospace;">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Hot+asf+but+not+today;love+u+silly+<3;???" alt="Typing SVG" />
-</h1>
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,4 +28,4 @@
 > it cannot always be night.”  
 > <sub>– *Kaneki, maybe Kanye*</sub>
 
----
+
