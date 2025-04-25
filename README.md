@@ -10,12 +10,7 @@
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/os X-black?style=for-the-badge&logo=apple&logoColor=white" />
@@ -31,13 +26,4 @@
 > it cannot always be night.”  
 > <sub>– *Kaneki, maybe Kanye*</sub>
 
----
-
-### 🛠️ core stack(and some other stuff...):
-
-- ⚫ **Frontend**: Next.js, React, Tailwind, TypeScript  
-- 🌀 **Go**: Gin, smth else shit  
-- 🧱 **DevOps**: Docker, Jenkins, GitHub Actions, Nginx, Linux, Bash, Ansible, k8s
-- 🍎 **iOS**: Swift, UIKit, SwiftUI
-- 🔻 **Assembly** - ...
 ---
